@@ -1,0 +1,90 @@
+[
+ {
+  "slug": "jianji",
+  "src": "剪辑展示.mp4",
+  "res": "3840x2160",
+  "dur": "00:00:54.95",
+  "video_mb": 10.56,
+  "poster_kb": 325
+ },
+ {
+  "slug": "mermaid1",
+  "src": "欧美人鱼案例1.mp4",
+  "res": "1080x1920",
+  "dur": "00:01:43.47",
+  "video_mb": 20.09,
+  "poster_kb": 201
+ },
+ {
+  "slug": "mermaid2",
+  "src": "欧美人鱼案例2.mp4",
+  "res": "1080x1920",
+  "dur": "00:02:05.27",
+  "video_mb": 24.24,
+  "poster_kb": 135
+ },
+ {
+  "slug": "family1",
+  "src": "欧美家庭闹剧案例1.mp4",
+  "res": "1080x1920",
+  "dur": "00:02:06.57",
+  "video_mb": 24.7,
+  "poster_kb": 149
+ },
+ {
+  "slug": "es1",
+  "src": "西语案例1.mp4",
+  "res": "1080x1920",
+  "dur": "00:01:41.75",
+  "video_mb": 19.68,
+  "poster_kb": 174
+ },
+ {
+  "slug": "es2",
+  "src": "西语案例2.mp4",
+  "res": "1080x1920",
+  "dur": "00:01:37.50",
+  "video_mb": 19.07,
+  "poster_kb": 127
+ },
+ {
+  "slug": "fight",
+  "src": "国内打斗案例.mp4",
+  "res": "1440x2560",
+  "dur": "00:01:49.18",
+  "video_mb": 20.81,
+  "poster_kb": 108
+ },
+ {
+  "slug": "ecommerce",
+  "src": "电商案例展示.mp4",
+  "res": "2160x3840",
+  "dur": "00:00:34.07",
+  "video_mb": 6.6,
+  "poster_kb": 195
+ },
+ {
+  "slug": "ip30w",
+  "src": "全网30w播放IP内容视频.mp4",
+  "res": "1440x1920",
+  "dur": "00:00:57.24",
+  "video_mb": 11.53,
+  "poster_kb": 132
+ },
+ {
+  "slug": "cafe",
+  "src": "咖啡馆商业案例.mp4",
+  "res": "3840x2132",
+  "dur": "00:00:42.87",
+  "video_mb": 8.28,
+  "poster_kb": 239
+ },
+ {
+  "slug": "plush",
+  "src": "电商玩偶产品展示.mp4",
+  "res": "1922x1080",
+  "dur": "00:00:24.15",
+  "video_mb": 4.71,
+  "poster_kb": 130
+ }
+]
